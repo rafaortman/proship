@@ -302,7 +302,7 @@ address.contato span:before {
         transform: unset;
         border-radius: 0;
         color: white;
-        background-color: rgb(var(--ciano));
+        background-color: rgb(var(--marinho));
     }
 }
 
